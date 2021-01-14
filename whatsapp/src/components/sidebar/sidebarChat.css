@@ -1,0 +1,44 @@
+.sidebarChat {
+  padding: 20px;
+  display: flex;
+  cursor: pointer;
+  border-bottom: 1.9px solid #f6f6f6;
+}
+
+.sidebarChat:hover {
+  background-color: #ebebeb;
+}
+
+.sidebarChat__info {
+  margin-left: 10px;
+}
+
+.sidebarChat__info > h2 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+.sidebarChat__info > p {
+  color: grey;
+}
+.add__new__chat {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  color: grey;
+  justify-content: space-between;
+}
+
+.add__new__chat > h2 {
+  flex: 1;
+}
+
+.add__new__chat > button > .MuiIconButton-label > .MuiSvgIcon-root {
+  color: grey;
+  font-size: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+}
+
+.App {
+  display: grid;
+  place-items: center;
+  background-color: #dadbd3;
+  background: linear-gradient(180deg, #128c7e 0% 15%, #dadbd3 15% 80%);
+  height: 100vh;
+}
+
+.app__body {
+  background-color: #ededed;
+  width: 90vw;
+  height: 90vh;
+  display: flex;
+  box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.3);
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(185, 184, 184);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
