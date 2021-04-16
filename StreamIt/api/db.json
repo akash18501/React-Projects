@@ -1,0 +1,56 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "This is a  great Stream",
+      "id": 1
+    },
+    {
+      "description": "This is also a great Stream ",
+      "title": "Second Stream",
+      "id": 2
+    },
+    {
+      "title": "Third Stream",
+      "description": "this is the third awesome stream",
+      "id": 3
+    },
+    {
+      "title": "Fourth Stream",
+      "description": "This is the fourth awesome Stream",
+      "id": 4
+    },
+    {
+      "title": "Fifth Stream",
+      "description": "new fifth Stream",
+      "id": 5
+    },
+    {
+      "title": "6",
+      "description": "six",
+      "id": 6
+    },
+    {
+      "description": "seven",
+      "title": "7",
+      "id": 7
+    },
+    {
+      "title": "React Crash Course",
+      "description": "Learn all about react and 2 projects and lifetime videos",
+      "id": 8
+    },
+    {
+      "title": "Backtracking Algorithm for Competitive Programming",
+      "description": "learn backtracking with some classic examples like n Queens and knight's tour etc",
+      "userId": "101755897119283473748",
+      "id": 9
+    },
+    {
+      "title": "Codeforces Educational Round #107 Post Contest",
+      "description": "here we will discuss solution to all the codeforces problem",
+      "userId": "101755897119283473748",
+      "id": 10
+    }
+  ]
+}
